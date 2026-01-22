@@ -1,4 +1,4 @@
-## Hi there, My name is Matheus de Medeiros Rodrigues 👋
+## Hi there, my name is Matheus de Medeiros Rodrigues 👋
 
 <!--
 **MatheusRodrigues-cmd/MatheusRodrigues-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
