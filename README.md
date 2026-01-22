@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, My name is Matheus de Medeiros Rodrigues 👋
 
 <!--
 **MatheusRodrigues-cmd/MatheusRodrigues-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> I’m currently learning JavaScript/React.
+--> I’m currently learning JavaScript/React through ALURA.
